@@ -2,7 +2,8 @@
 layout: home
 ---
 
-This is the link to the different prebuilt stable builds of [InstructLab](https://instructlab.ai)
+This is the link to the different prebuilt stable builds of [InstructLab](https://instructlab.ai), this installs
+the `ilab` command into your `$PATH` and allows you to engage with the `ilab` commands from the command line/terminal.
 
 ## Versions
 
